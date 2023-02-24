@@ -1,4 +1,4 @@
-# ModernStatsBook
+# ModernStats
 This repository contains the Jupyter notebooks and datasets I used when studying the online book 'Introduction to Modern Statistics'.  
 Online book URL: https://openintro-ims.netlify.app/
 
