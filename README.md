@@ -9,4 +9,4 @@ The Introduction to Modern Statistics (IMS) book is an excellent free resource f
 
 If you would like to see the work I did while learning, you can click on chapter practice jupyter notebook (ipynb) files to open them.
 
-To recreate the environment I used while going through this book you will need to have Python 3.10 and Jupyter installed. The requirements file can be used to install the Python package I used with the same versions. And, finally you will need to download the data analysis package I built called [DataStats](https://github.com/pthussey/DataStats) which can be installed using the command: pip install git+https://github.com/pthussey/DataStats
+To recreate the environment I used while going through this book you will need to have Python 3.10 and Jupyter installed. The requirements file can be used to install the Python packages I used with the same versions. And, finally you will need to download the data analysis package I built called [DataStats](https://github.com/pthussey/DataStats) which can be installed using the command: pip install git+https://github.com/pthussey/DataStats
